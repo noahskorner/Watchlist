@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AD51151D-BC39-484A-A923-B9CEDE4D64EF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D63BEFC8-9804-400E-B883-1B8C3C9A7E5A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Watchlist/Controller/AddShowViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "AddShowViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D63BEFC8-9804-400E-B883-1B8C3C9A7E5A - 98784176d9d21fd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Watchlist.AddShowViewController.img.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Watchlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noah/Desktop/School/CSE%20335/Watchlist/Watchlist/Controller/AddShowViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D63BEFC8-9804-400E-B883-1B8C3C9A7E5A - 7c11b0467dd1a32d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Watchlist.AddShowViewController.img.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Watchlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noah/Desktop/School/CSE%20335/Watchlist/Watchlist/Controller/AddShowViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "D63BEFC8-9804-400E-B883-1B8C3C9A7E5A - 9f0b44912e5d74dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Watchlist.AddShowViewController.img.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Watchlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noah/Desktop/School/CSE%20335/Watchlist/Watchlist/Controller/AddShowViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "D63BEFC8-9804-400E-B883-1B8C3C9A7E5A - 967880e590d0c5c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Watchlist.AddShowViewController.img.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Watchlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noah/Desktop/School/CSE%20335/Watchlist/Watchlist/Controller/AddShowViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "D63BEFC8-9804-400E-B883-1B8C3C9A7E5A - 11ef388c8b951761"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Watchlist.AddShowViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Watchlist.AddShowViewController"
+                  moduleName = "Watchlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noah/Desktop/School/CSE%20335/Watchlist/Watchlist/Controller/AddShowViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "D63BEFC8-9804-400E-B883-1B8C3C9A7E5A - 4334f9aa723ce87a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Watchlist.AddShowViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Watchlist.AddShowViewController&gt;"
+                  moduleName = "Watchlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noah/Desktop/School/CSE%20335/Watchlist/Watchlist/Controller/AddShowViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "269">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
